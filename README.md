@@ -52,10 +52,10 @@ public class SeongjunPark {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tjdwns4570&show_icons=true&hide_rank=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=420" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwns4570&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=300" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=tjdwns4570&show_icons=true&hide_rank=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=380" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwns4570&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&card_width=260" height="150" />
 
-<img src="https://streak-stats.demolab.com?user=tjdwns4570&theme=github-dark-blue&hide_border=true&background=0d1117" width="730" />
+<img src="https://streak-stats.demolab.com?user=tjdwns4570&theme=github-dark-blue&hide_border=true&background=0d1117" width="99%" />
 
 </div>
 
