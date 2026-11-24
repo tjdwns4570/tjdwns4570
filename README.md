@@ -91,6 +91,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=3" width="100%" />
 
+## 🧩 Baekjoon
+
+<p align="center">
+  <a href="https://solved.ac/profile/rubytop0108"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rubytop0108" alt="solved.ac profile" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=3" width="100%" />
+
 ## 📫 Contact
 
 <p align="center">
