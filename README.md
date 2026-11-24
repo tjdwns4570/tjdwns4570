@@ -55,16 +55,6 @@
 
 <br>
 
-## 🧩 Baekjoon
-
-<div align="center">
-
-<a href="https://solved.ac/profile/rubytop0108"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rubytop0108" alt="solved.ac profile" /></a>
-
-</div>
-
-<br>
-
 ## 📌 Projects
 
 | 프로젝트 | 설명 |
